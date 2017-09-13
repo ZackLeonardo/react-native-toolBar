@@ -12,6 +12,8 @@ yarn add react-native-toolBar
 ## Example
 Check in the `example` folder.
 
+![Demo](https://raw.githubusercontent.com/ZackLeonardo/react-native-toolBar/master/example/screenShot.png)
+
 ## License
 
 [MIT License](http://opensource.org/licenses/mit-license.html). © Zou Deyi
