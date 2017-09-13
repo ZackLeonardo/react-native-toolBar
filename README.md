@@ -12,7 +12,7 @@ yarn add react-native-toolBar
 ## Example
 Check in the `example` folder.
 
-![Demo](https://raw.githubusercontent.com/ZackLeonardo/react-native-toolBar/master/example/screenShot.png)
+![Demo](https://github.com/ZackLeonardo/react-native-toolBar/blob/master/example/screenshot.png)
 
 ## License
 
