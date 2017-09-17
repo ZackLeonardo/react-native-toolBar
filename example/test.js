@@ -5,7 +5,7 @@ import {
   View,
 } from 'react-native';
 
-import { TopToolBar, BottomToolBar } from 'react-native-toolBar';
+import { TopToolBar, BottomToolBar } from 'react-native-toolbar';
 
 export default class Test extends Component {
   render() {
