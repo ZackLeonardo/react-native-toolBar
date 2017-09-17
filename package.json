@@ -1,12 +1,12 @@
 {
-  "name": "react-native-toolBar",
+  "name": "react-native-toolbar",
   "version": "1.0.0",
   "description": "react native toolbar",
   "main": "index.js",
   "author": "ZackLeonardo <maiz9088@icloud.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ZackLeonardo/react-native-toolBar"
+    "url": "https://github.com/ZackLeonardo/react-native-toolbar"
   },
   "license": "MIT",
   "dependencies": {
