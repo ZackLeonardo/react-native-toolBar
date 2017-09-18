@@ -6,7 +6,7 @@ The component which can be used as topToolBar and bottomToolBar.
 ## Usage
  (for myself in private npm store)
 ```
-yarn add react-native-toolbar
+yarn add @zdy/react-native-toolbar
 ```
 (for everyone)
 ```

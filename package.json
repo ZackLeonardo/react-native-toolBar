@@ -1,5 +1,5 @@
 {
-  "name": "react-native-toolbar",
+  "name": "@zdy/react-native-toolbar",
   "version": "1.0.0",
   "description": "react native toolbar",
   "main": "index.js",
